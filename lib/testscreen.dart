@@ -36,11 +36,11 @@ class _SplashScreenState extends State<SplashScreen> {
               height: 120,
               width: 120,
             ),
-            // Image.network(
-            //   "https://your-image-url.com/logo.png",
-            //   height: 120,
-            //   width: 120,
-            // ),
+            Image.network(
+              "https://your-image-url.com/logo.png",
+              height: 120,
+              width: 120,
+            ),
 
             const SizedBox(height: 20),
 
